@@ -16,4 +16,4 @@ Machine Learning For Hackers
 
 ## 开始阅读 ##
 
-[目录](<list.md>)
+[目录](<https://github.com/royguo/ml_hackers/blob/master/list.md>)
