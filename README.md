@@ -39,14 +39,15 @@ Machine Learning For Hackers
 所有参与翻译的朋友均会列举在这里，定期更新Git上的参与率
 
 ## 参与翻译的方法 ##
-[协作翻译简介](<collaboration.md>)
+[协作翻译简介](<https://github.com/royguo/ml_hackers/blob/master/collaboration.md>)
 
 ## 版权声明 ##
 中文翻译版权已被机械工业出版社获取，所以这个事情...不知道肿么处理啊，继续翻译是否有法律风险呢？不出版只交流。
 
 ## 讨论 ##
 [我的微博](http://weibo.com/royguo1988)
-[我的邮箱：royguo1988@gmail.com]
+
+我的邮箱：royguo1988@gmail.com
 
 ## 开始阅读 ##
 
