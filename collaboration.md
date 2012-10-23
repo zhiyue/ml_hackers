@@ -17,7 +17,7 @@
 
 1.fork本翻译库到自己的Github名下
 
-![collaboration_fork](images/collaboration_fork.png "collaboration_fork")
+![collaboration_fork](https://raw.github.com/royguo/ml_hackers/master/images/collaboration_fork.png "collaboration_fork")
 
 2.对fork过的分支进行修改（任一分支都行，也可以直接用master分支）
 
@@ -25,9 +25,9 @@
 
 4.请求我把你的更新放到我这里(Pull Request):
 
-![collaboration_pull](images/collaboration_pull.png "collaboration_pull")
+![collaboration_pull](https://raw.github.com/royguo/ml_hackers/master/images/collaboration_pull.png "collaboration_pull")
 
-![collaboration_pull2](images/collaboration_pull2.png "collaboration_pull2")
+![collaboration_pull2](https://raw.github.com/royguo/ml_hackers/master/images/collaboration_pull2.png "collaboration_pull2")
 
 5.我如果通过或者拒绝合并，系统都会发送通知，按照说明继续后面的步骤即可，非常简单
 
