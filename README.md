@@ -21,13 +21,22 @@ Machine Learning For Hackers
 <table width="100%">
     <tr>
         <td>章节</td>
-        <td>译者</td>
+        <td>译者微博</td>
+        <td>译者Github</td>
         <td>阶段(翻译/Review)</td>
         <td>预计完成时间</td>
     </tr>
     <tr>
         <td>1.1.1.md ~ 1.1.5.md</td>
+        <td>郭宽Oct</td>
         <td>royguo</td>
+        <td>初次翻译</td>
+        <td>Oct 31,2012</td>
+    </tr>
+    <tr>
+        <td>3.1.md ~ 3.3.md</td>
+        <td>yetuweiba</td>
+        <td>yetuweiba</td>
         <td>初次翻译</td>
         <td>Oct 31,2012</td>
     </tr>
