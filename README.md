@@ -40,6 +40,13 @@ Machine Learning For Hackers
         <td>初次翻译</td>
         <td>Oct 31,2012</td>
     </tr>
+    <tr>
+        <td>6.1.md ~ 6.3.md</td>
+        <td>A森VJ</td>
+        <td>yinxusen</td>
+        <td>初次翻译</td>
+        <td>Nov 10,2012</td>
+    </tr>
 </table>
 
 
