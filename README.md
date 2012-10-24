@@ -36,6 +36,13 @@ Machine Learning For Hackers
         <td>Oct 31,2012</td>
     </tr>
     <tr>
+        <td>2.1.md ~ 2.5.md</td>
+        <td>eeeeeeeeethan</td>
+        <td>caoxudong</td>
+        <td>初次翻译</td>
+        <td>Unknown</td>
+    </tr>
+    <tr>
         <td>3.1.md ~ 3.3.md</td>
         <td>yetuweiba</td>
         <td>yetuweiba</td>
