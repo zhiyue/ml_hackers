@@ -22,7 +22,7 @@ Machine Learning For Hackers
     <tr>
         <td>章节</td>
         <td>译者</td>
-        <td>翻译阶段</td>
+        <td>阶段(翻译/Review)</td>
         <td>预计完成时间</td>
     </tr>
     <tr>
@@ -44,10 +44,14 @@ Machine Learning For Hackers
 [协作翻译简介](<https://github.com/royguo/ml_hackers/blob/master/collaboration.md>)
 
 ## 版权声明 ##
-中文翻译版权已被机械工业出版社获取，所以这个事情...不知道肿么处理啊，继续翻译是否有法律风险呢？不出版只交流。
+中文翻译版权已被机械工业出版社获取，所以这个事情...不知道肿么处理啊，继续翻译是否有法律风险呢？
+
+我认为不出版只交流的话应当没有什么问题，我们只是给自己翻译而已
+
 
 ## 讨论 ##
 [我的微博](http://weibo.com/royguo1988)
+QQ群：176641070
 
 我的邮箱：royguo1988@gmail.com
 
