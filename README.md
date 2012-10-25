@@ -10,6 +10,8 @@ Machine Learning For Hackers
 ## 原书地址 ##
 [Machine Learning For Hackers](http://vdisk.weibo.com/s/eatEe/1350873740)
 
+[**原书中的测试数据集和R代码**](https://github.com/royguo/ML_Hackers_Data)
+
 ## 翻译计划 ##
 平时事情太多，学习的时间都是挤出来的，所以翻译进度会比较慢，欢迎有兴趣的同学一起来翻译学习
 
