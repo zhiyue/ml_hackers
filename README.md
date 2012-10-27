@@ -53,17 +53,17 @@ Machine Learning For Hackers
     </tr>
     <tr>
         <td>6.1.md ~ 6.3.md</td>
-        <td>清晨琐思</td>
-        <td>finleychen</td>
-        <td>初次翻译</td>
-        <td>Unknown</td>
-    </tr>
-    <tr>
-        <td>10.1.md ~ 10.2.md</td>
         <td>A森VJ</td>
         <td>yinxusen</td>
         <td>初次翻译</td>
         <td>Nov 10,2012</td>
+    </tr>
+    <tr>
+        <td>10.1.md ~ 10.2.md</td>
+        <td>清晨琐思</td>
+        <td>finleychen</td>
+        <td>初次翻译</td>
+        <td>Unknown</td>
     </tr>
 </table>
 
