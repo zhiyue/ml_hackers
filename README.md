@@ -85,6 +85,7 @@ Machine Learning For Hackers
 
 ## 讨论 ##
 [我的微博](http://weibo.com/royguo1988)
+
 QQ群：176641070
 
 我的邮箱：royguo1988@gmail.com
