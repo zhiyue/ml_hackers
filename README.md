@@ -45,6 +45,13 @@ Machine Learning For Hackers
         <td>Unknown</td>
     </tr>
     <tr>
+        <td>2.6.md ~ 2.10.md</td>
+        <td>郭宽Oct</td>
+        <td>royguo</td>
+        <td>初次翻译</td>
+        <td>Nov 31,2012</td>
+    </tr>
+    <tr>
         <td>3.1.md ~ 3.3.md</td>
         <td>yetuweiba</td>
         <td>yetuweiba</td>
