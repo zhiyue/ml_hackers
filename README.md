@@ -59,6 +59,13 @@ Machine Learning For Hackers
         <td>Oct 31,2012</td>
     </tr>
     <tr>
+        <td>4.1.md ~ 4.2.md</td>
+        <td>wode_liu</td>
+        <td>wode-liu</td>
+        <td>初次翻译</td>
+        <td>Nov 15,2012</td>
+    </tr>
+    <tr>
         <td>6.1.md ~ 6.3.md</td>
         <td>A森VJ</td>
         <td>yinxusen</td>
