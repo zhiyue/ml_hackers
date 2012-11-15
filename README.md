@@ -27,57 +27,46 @@ Machine Learning For Hackers
         <td>章节</td>
         <td>译者微博</td>
         <td>译者Github</td>
-        <td>阶段(翻译/Review)</td>
-        <td>预计完成时间</td>
     </tr>
     <tr>
         <td>1.1.1.md ~ 1.1.5.md</td>
         <td>郭宽Oct</td>
         <td>royguo</td>
-        <td>初次翻译</td>
-        <td>Oct 31,2012</td>
     </tr>
     <tr>
         <td>2.1.md ~ 2.5.md</td>
         <td>eeeeeeeeethan</td>
         <td>caoxudong</td>
-        <td>初次翻译</td>
-        <td>Unknown</td>
     </tr>
     <tr>
         <td>2.6.md ~ 2.10.md</td>
         <td>郭宽Oct</td>
         <td>royguo</td>
-        <td>初次翻译</td>
-        <td>Nov 31,2012</td>
     </tr>
     <tr>
         <td>3.1.md ~ 3.3.md</td>
         <td>yetuweiba</td>
         <td>yetuweiba</td>
-        <td>初次翻译</td>
-        <td>Oct 31,2012</td>
     </tr>
     <tr>
         <td>4.1.md ~ 4.2.md</td>
         <td>wode_liu</td>
         <td>wode-liu</td>
-        <td>初次翻译</td>
-        <td>Nov 15,2012</td>
     </tr>
     <tr>
         <td>6.1.md ~ 6.3.md</td>
         <td>A森VJ</td>
         <td>yinxusen</td>
-        <td>初次翻译</td>
-        <td>Nov 10,2012</td>
+    </tr>
+    <tr>
+        <td>7.1.md ~ 7.3.md</td>
+        <td>郭宽Oct</td>
+        <td>royguo</td>
     </tr>
     <tr>
         <td>10.1.md ~ 10.2.md</td>
         <td>清晨琐思</td>
         <td>finleychen</td>
-        <td>初次翻译</td>
-        <td>Unknown</td>
     </tr>
 </table>
 
